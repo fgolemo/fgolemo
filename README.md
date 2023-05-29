@@ -1,4 +1,4 @@
-[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgolemo&theme=synthwave)](https://github.com/fgolemo/github-readme-stats)
+[![Florian's GitHub stats](https://github-readme-stats-vert-eta-29.vercel.app/api?username=fgolemo&theme=synthwave)](https://github.com/fgolemo/github-readme-stats)
 
 <!--
 **fgolemo/fgolemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
